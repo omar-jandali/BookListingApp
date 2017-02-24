@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String BOOKS_MAX_RESULTS_STRING = "&maxResults=";
 
-    private static final int BOOKS_MAX_RESULTS_VALUE = 100;
+    private static final int BOOKS_MAX_RESULTS_VALUE = 20;
 
     private int totalItems;
 
